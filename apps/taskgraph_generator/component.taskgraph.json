@@ -1,0 +1,1 @@
+{"tasks":[{"name":"src/main.ts","difficulty":0.25,"depends":[]},{"name":"src/App.vue","difficulty":0.5,"depends":["src/main.ts"]}]}

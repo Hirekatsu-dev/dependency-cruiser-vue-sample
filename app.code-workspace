@@ -1,0 +1,38 @@
+{
+  "folders": [
+    {
+      "name": "vue2",
+      "path": "apps/vue2"
+    },
+    {
+      "name": "vue3",
+      "path": "apps/vue3"
+    },
+    {
+      "name": "taskgraph_generator",
+      "path": "apps/taskgraph_generator"
+    },
+    {
+      "name": "root",
+      "path": "./"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "quickfix.biome": "explicit"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "biomejs.biome"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "biomejs.biome"
+    },
+    "[vue]": {
+      "editor.defaultFormatter": "biomejs.biome"
+    },
+  },
+  "extensions": {
+    "recommendations": []
+  }
+}
